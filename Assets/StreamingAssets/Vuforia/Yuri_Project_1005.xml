@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cangshu" size="1.000000 0.994647" />
+    <ImageTarget name="me" size="1.000000 1.387906" />
+  </Tracking>
+</QCARConfig>
